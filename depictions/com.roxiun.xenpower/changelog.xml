@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version>0.1</version>
+		<version>0.0.1~beta1</version>
 		<change>Initial Release</change>
+	</changes>
+	<changes>
+		<version>0.0.1~beta2</version>
+		<change>Minor Update</change>
 	</changes>
 </changelog>

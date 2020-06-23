@@ -1,7 +1,7 @@
 <package>
 	<id>com.roxiun.xenpower</id>
 	<name>Full Package</name>
-	<version>0.1</version>
+	<version>0.0.1~beta2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -13,13 +13,7 @@
 	</dependencies>
 	<shortDescription>XenHTML, AirPower styled widget. Supports iOS 12 - iOS 13</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Customisable XenHTML that brings battery indicators to your lockscreen</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
