@@ -9,6 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>com.matchstic.xenhtml</package>
+		<package>com.junesiphone.xeninfo</package>
 	</dependencies>
 	<shortDescription>XenHTML, AirPower styled widget. Supports iOS 12 - iOS 13</shortDescription>
 	<descriptionlist>
