@@ -1,16 +1,16 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.roxiun.xenpower</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>com.matchstic.xenhtml</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>XenHTML, AirPower styled widget. Supports iOS 12 - iOS 13</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
