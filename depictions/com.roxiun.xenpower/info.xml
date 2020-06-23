@@ -1,6 +1,6 @@
 <package>
 	<id>com.roxiun.xenpower</id>
-	<name>Full Package</name>
+	<name>XenPower</name>
 	<version>0.0.1~beta2</version>
 	<compatibility>
 		<firmware>
@@ -26,7 +26,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>First Testing Release</change>
+		<change>Second Testing Release</change>
 		<change>Customisable Notifications</change>
 		<change>Customisable Size</change>
 	</changelog>
