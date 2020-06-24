@@ -15,6 +15,23 @@ Author: Roxiun
 Depiction: https://roxiun.github.io/repo/depictions/?p=com.roxiun.nodockblur
 Name: NoDockBlur
 
+Package: com.roxiun.nodockblur
+Version: 0.0.1~beta2
+Architecture: iphoneos-arm
+Maintainer: Roxiun
+Installed-Size: 540
+Depends: mobilesubstrate, ws.hbang.common (>= 1.15.1)
+Filename: ./debs/com.roxiun.nodockblur_0.0.1~beta2_iphoneos-arm.deb
+Size: 285604
+MD5sum: 021d328bf5016c342c74bbeec2cbd375
+SHA1: 2401cdeb38377f5ce5e0ba88bb12e2612bbe9dde
+SHA256: 0c894569faba0a801725fc3b542324ce7b0e381a584691f41136c0ded207d565
+Section: Tweaks
+Description: Simple tweak that removes the docks blur
+Author: Roxiun
+Depiction: https://roxiun.github.io/repo/depictions/?p=com.roxiun.nodockblur
+Name: NoDockBlur
+
 Package: com.roxiun.xenpower
 Version: 0.0.1~beta1
 Architecture: iphoneos-arm
