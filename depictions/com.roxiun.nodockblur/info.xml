@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>MobileSubstrate</package>
-		<package>ws.hbang.common/package>
+		<package>ws.hbang.common</package>
 	</dependencies>
 	<shortDescription>Removes the Dock's Blur</shortDescription>
 	<descriptionlist>
