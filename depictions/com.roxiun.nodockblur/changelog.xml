@@ -11,4 +11,8 @@
 		<version>0.0.1~beta3</version>
 		<change>Preferences Fix</change>
 	</changes>
+	<changes>
+		<version>0.0.1~beta4</version>
+		<change>Preferences Fix - 2</change>
+	</changes>
 </changelog>
