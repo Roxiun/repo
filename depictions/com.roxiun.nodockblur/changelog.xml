@@ -5,6 +5,10 @@
 	</changes>
 	<changes>
 		<version>0.0.1~beta2</version>
-		<change>Preferences/change>
+		<change>Preferences</change>
+	</changes>
+	<changes>
+		<version>0.0.1~beta3</version>
+		<change>Preferences Fix</change>
 	</changes>
 </changelog>
