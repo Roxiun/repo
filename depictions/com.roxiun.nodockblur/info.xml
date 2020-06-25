@@ -1,7 +1,7 @@
 <package>
 	<id>com.roxiun.nodockblur</id>
 	<name>NoDockBlur</name>
-	<version>0.0.1~beta4</version>
+	<version>0.0.1~beta5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>

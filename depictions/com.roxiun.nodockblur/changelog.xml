@@ -15,4 +15,8 @@
 		<version>0.0.1~beta4</version>
 		<change>Preferences Fix - 2</change>
 	</changes>
+	<changes>
+		<version>0.0.1~beta5</version>
+		<change>Preferences Fix - Final</change>
+	</changes>
 </changelog>
